@@ -9,6 +9,16 @@ The data was collected by running this file and loading each page from 20 pages 
 www.zillow.com/san-francisco-ca/
 www.zillow.com/san-francisco-ca/sold/
 
+For each of the datasets we created, we extracted the following variables from Zillow's website:
+
+Address: The address of the property including its zip code.
+Listing by: The property company and agent that listed the property on Zillow.com
+Price: The price that the property was listed for.
+Beds: The amount of bedrooms the property has.
+Baths: The amount of bathrooms the property has.
+Sqft: The total amount of square footage the property has.
+Building Type (Only for sale homes): The type of home (Condo, Foreclosure, House, Lot/Land, Multi-family home, New construction, Townhouse)
+
 For Sale Analysis.py: This file includes the code used for our final written report.
 
 Sold_Analysis.py: This file includes the code used for our final written report.
